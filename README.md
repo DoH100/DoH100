@@ -33,9 +33,9 @@
 ## 📊 GitHub 통계
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DoH100dldi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DoH100&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoH100dldi&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoH100&layout=compact&theme=tokyonight" />
 </div>
 
 ---
@@ -43,9 +43,6 @@
 ## 🔗 Connect with Me
 
 <div align="center">
-  <a href="mailto:k03s13j@naver.com">
-    <img src="https://img.shields.io/badge/Naver Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
-  </a>
   <a href="https://infobox96189.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory Blog-000000?style=for-the-badge&logo=tistory&logoColor=white" />
   </a>
