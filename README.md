@@ -33,7 +33,7 @@
 ## 📊 GitHub 통계
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DoH100&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DoH100&show_icons=true&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoH100&layout=compact&theme=tokyonight" />
 </div>
