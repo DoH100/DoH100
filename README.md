@@ -32,11 +32,11 @@
 
 ## 📊 GitHub 통계
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DoH100&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoH100&layout=compact&theme=tokyonight" />
-</div>
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DoH100&show_icons=true&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoH100&layout=compact&theme=tokyonight)
+
+
 
 ---
 
@@ -45,5 +45,8 @@
 <div align="center">
   <a href="https://infobox96189.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory Blog-000000?style=for-the-badge&logo=tistory&logoColor=white" />
+  </a>
+  <a href="https://github.com/DoH100">
+    <img src="https://img.shields.io/badge/Follow @DoH100-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
